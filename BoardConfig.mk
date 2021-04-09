@@ -140,6 +140,7 @@ TARGET_RECOVERY_FSTAB := $(DEVICE_PATH)/recovery/root/system/etc/recovery.fstab
 SHRP_PATH := device/realme/RMX2185
 # Maintainer name *
 SHRP_MAINTAINER := TechyMinati
+SHRP_OFFICIAL := true
 # Device codename *
 SHRP_DEVICE_CODE := RMX2185
 # Recovery Type (It can be treble,normal,SAR) [Only for About Section] *
